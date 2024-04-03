@@ -1,14 +1,11 @@
 # Evil-Twin-Attack
 
-## Abstract 
- 
-With the rapid expansion of digital technologies, the threat landscape facing 
-organizations has become increasingly complex and dynamic. As cyberattacks 
-continue to evolve in sophistication and frequency, there is a pressing need for 
-proactive security measures to protect sensitive information and critical 
-infrastructures. Hacking emerges as a crucial methodology in this endeavors, 
-offering a structured approach to identify vulnerabilities and mitigate potential risks 
-before they can be exploited by malicious actors. The Evil Twin Attack is a 
-sophisticated form of wireless network deception, often employed in malicious 
-contexts, where an attacker creates a fraudulent Wi-Fi access point (AP) that mimics 
-a legitimate one.
+## Introducion
+
+An Evil Twin Attack is a type of wireless attack where a malicious actor creates a 
+fake wireless access point (AP) that masquerades as a legitimate one. The goal of 
+this attack is to trick users into connecting to the malicious AP instead of the 
+legitimate one, allowing the attacker to intercept data or perform other malicious 
+activities. This type of attack may be used to steal the passwords of unsuspecting 
+users, either by monitoring their connections or by phishing, which involves setting 
+up a fraudulent web site and luring people there.
