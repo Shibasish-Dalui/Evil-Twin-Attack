@@ -1,5 +1,10 @@
 # Evil-Twin-Attack
 
+## ! DISCLAIMER !
+The project is for educational purpose only and should only be used against your own networks and devices!<br>
+Please check the legal regulations in your country before using it.
+
+
 ## Introducion
 
 An Evil Twin Attack is a type of wireless attack where a malicious actor creates a 
@@ -15,6 +20,12 @@ up a fraudulent web site and luring people there.
 <br>
 
 
+## Features
+* Deauthentication of a target WiFi access point
+* Evil-Twin AP to capture passwords with password verification against the og access point
+* It can do both attacks at the same time, no toggling of the deauther is required.
+
+
 ## Requiremnts
 ➢ NodeMCU ESP8266 micro-controller ( x 2 ) <br>
 ➢ Power source <br>
@@ -23,6 +34,10 @@ up a fraudulent web site and luring people there.
 ➢ Arduino IDE ( or any other supported code editor ) <br>
 ➢ NodeMCU Flasher <br>
 ➢ A general-purpose computer (ex. Laptop, phone , etc.) with Wi-fi support <br>
+
+<img style="border-radius:10px;"
+    src="https://github.com/Shibasish-Dalui/Evil-Twin-Attack/blob/main/components.png">
+<br>
 
 
 ## Setup
