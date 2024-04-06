@@ -26,7 +26,7 @@ up a fraudulent web site and luring people there.
 * It can do both attacks at the same time, no toggling of the deauther is required.
 
 
-## Requiremnts
+## Requirements
 ➢ NodeMCU ESP8266 micro-controller ( x 2 ) <br>
 ➢ Power source <br>
 ➢ 7805 IC (if higher voltage source is used) <br>
